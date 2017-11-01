@@ -1,0 +1,10 @@
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\bin\Debug\Virtualpad.exe.config
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\bin\Debug\Virtualpad.exe
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\bin\Debug\Virtualpad.pdb
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\obj\Debug\Virtualpad.csprojResolveAssemblyReference.cache
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\obj\Debug\Virtualpad.Properties.Resources.resources
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\obj\Debug\Virtualpad.csproj.GenerateResource.Cache
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\obj\Debug\Virtualpad.exe
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\obj\Debug\Virtualpad.pdb
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\obj\Debug\Virtualpad.KeyBoard.resources
+c:\users\cyber\documents\visual studio 2015\Projects\Virtualpad\Virtualpad\obj\Debug\Virtualpad.Pad.resources
